@@ -1,0 +1,22 @@
+#EXTM3U @Carlos
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p)
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
+#EXTINF:-1 tvg-id="ATV+" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="General",ATV+ (720p)
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
+#EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (720p)
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-id="Willax" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="General",Willax (480p)
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmoXPEyOcbig6xg-daRbcvbaazwZilNRUcxm8dsZVljUk)/dm/3/x7x4dgx/s/live-1.m3u8
+#EXTINF:-1 tvg-id="Exitosa Noticias" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="General",Exitosa Noticias (720p)
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="General",Panamericana (720p)
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFmSenJAR27cc0LMQcRQpzOsgrCdm2-hLIIKV6ZPBdvF6)/dm/3/x774s7s/s/live-3.m3u8
+#EXTINF:-1 tvg-id="TV Peru" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General",TV Peru (720p)
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-id="TV Peru Noticias" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="General",TV Peru Noticias (720p)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-id="Canal IPE" tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="General",Canal IPE (720p)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="TurboMix" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="General",TurboMix Cajamarca
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
